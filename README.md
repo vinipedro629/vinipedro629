@@ -51,7 +51,4 @@ Olá! Eu sou o Pedro Vinícius 👋
 
 ---
 
-## 🐍 GitHub Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/main/snk.svg" alt="GitHub Snake" width="100%" />
 
